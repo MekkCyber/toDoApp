@@ -1,0 +1,16 @@
+.form {
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    font-size: x-large;
+    display: flex;
+    gap : 10px;
+    padding-top : 30px;
+}
+
+.list {
+    position: relative;
+    margin-left : 80px;
+    margin-top : 20px;
+    margin-right : 80px;
+}

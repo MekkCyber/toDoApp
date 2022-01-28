@@ -1,0 +1,13 @@
+.todoItem {
+    font-size: x-large;
+    background-color: aliceblue;
+    padding-left : 10px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.button {
+    background-color: aliceblue;
+    border: none;
+}
+
